@@ -9,7 +9,7 @@ Outil CLI PHP permettant d'enregistrer des autoentrepreneurs et simuler des déc
 Cloner le projet :
 
 ```bash
-git clone URL_DU_REPO
+git clone [URL_DU_REPO](https://github.com/lbrugiere/Urssafc.git)
 cd urssafc
 ```
 
