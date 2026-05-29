@@ -2,7 +2,7 @@
     "name": "leabrugiere/usraffc",
     "autoload": {
         "psr-4": {
-            "Usraff\\": "src/"
+            "Urssaf\\": "src/"
         }
     },
     "authors": [
