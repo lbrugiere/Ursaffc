@@ -1,0 +1,17 @@
+{
+    "name": "leabrugiere/usraffc",
+    "autoload": {
+        "psr-4": {
+            "Usraff\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lbrugiere",
+            "email": "brugierelea@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^7.4"
+    }
+}
